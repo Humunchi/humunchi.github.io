@@ -1,27 +1,4 @@
-/*body {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  background-color: black;
-  font-family: Verdana, sans-serif;
-  color: white;
-}
 
-.div {
-  padding: 0%;
-  max-width: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: stretch;
-  z-index: 1;
-  height: 100vh;
-  background-image: url(https://user-images.githubusercontent.com/5627973/104483031-8dbcb080-55bf-11eb-98f3-576e5035f3ce.png), url(https://user-images.githubusercontent.com/5627973/104483148-b47ae700-55bf-11eb-8501-b980c347cef2.png);
-  background-repeat: no-repeat;
-  background-position: 1240px 500px, -60px -60px;
-  background-size: 200px 200px, 200px 200px;
-
-}*/
 
 
 body {
@@ -31,6 +8,6 @@ h1 {
   color: blue;
 }
 p {
-  color: red;
+
   font: 1.1em, "Verdana", sans-serif;
 }
